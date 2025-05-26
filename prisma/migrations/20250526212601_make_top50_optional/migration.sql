@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Degree" ALTER COLUMN "isTop50" DROP NOT NULL;
